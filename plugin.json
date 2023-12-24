@@ -1,0 +1,10 @@
+{
+    "name": "plugin-template",
+    "displayName": "Plugin Template",
+    "description": "Mindustry Java plugin template, complete with syntax downgrader integration.",
+    "version": "1.0",
+    "minGameVersion": "146",
+    "author": "You",
+    "java": true,
+    "main": "template.PluginTemplate"
+}
